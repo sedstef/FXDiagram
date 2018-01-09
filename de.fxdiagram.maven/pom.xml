@@ -22,8 +22,10 @@
 		<module>../de.fxdiagram.mapping</module>
 		<module>../de.fxdiagram.eclipse</module>
 		<module>../de.fxdiagram.eclipse.ecore</module>
+                <!--
 		<module>../de.fxdiagram.eclipse.example</module>
 		<module>../de.fxdiagram.eclipse.examples.feature</module>
+                -->
 		<module>../de.fxdiagram.eclipse.pde</module>
 		<module>../de.fxdiagram.eclipse.xtext</module>
 		<module>../de.fxdiagram.noeclipse</module>
@@ -32,8 +34,10 @@
 		<module>../de.fxdiagram.xtext.fowlerdsl</module>
 		<module>../de.fxdiagram.xtext.xbase</module>
 		<module>../de.fxdiagram.base.feature</module>
+                <!--
 		<module>../de.fxdiagram.sdk.feature</module>
-		<module>../de.fxdiagram.eclipse.updatesite</module>
+                <module>../de.fxdiagram.eclipse.updatesite</module>
+                -->
 	</modules>
 
 	<repositories>
